@@ -1,4 +1,4 @@
-# UT Data Analytics BootCamp May-Nov Cohort
+# UT Data Analytics BootCamp 2019 May-Nov Cohort
 __Project 01 (due 2019-07-06)__
 __M-W Team A:__
 * Joshua Benenoch
