@@ -3,4 +3,4 @@
 * Joshua Benenoch
 * Philip Hayes
 * Ezra Kenigsberg
-* Anthony Omafoma
+* Anthony Omofoma
