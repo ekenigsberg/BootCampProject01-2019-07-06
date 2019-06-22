@@ -17,11 +17,13 @@ We will explore four likely drivers of water quality:
 For all four drivers, we will research 
 * best data sources; and
 * both nominal change and rate of change. 
+
 To evaluate water quality, six variables are most useful:
 1. Flow (called "Q"), as affected by runoff & precipitation
 2. E. Coli concentration
 3. Change in Ph
 4. Phosphorus & Nitrogen content
 5. Dams
-6. Depths of water bodies<br/>
+6. Depths of water bodies
+
 We will also determine whether a prefabricated index, like [PathFinder Science's Water Quality Index](http://www.pathfinderscience.net/stream/cproto4.cfm), will suffice.
