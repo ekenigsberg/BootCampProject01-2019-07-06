@@ -1,0 +1,267 @@
+#setwd ('../huc4-calcs')
+
+# read .csv file with 15,458 HUC-10 recs, for each group of records within a HUC-4 run rkt() and write results to file
+# then can join that in ArcMap
+
+
+library (dplyr)
+library (rkt)
+
+
+#########
+# BEGIN CHANGE BLOCK: CHANGE THE FOLLOWING 2 LINES DEPENDING ON THE VARIABLE:
+#
+
+variable_type <- "pest_glyph"		# set variable type, see below for names
+
+num_periods <- 5	# set this before running, depending on type of data: CoA-derived data will be 5, atmdep will be 21, etc.  Must be at least 4 to run.
+
+# END BLOCK WHERE ANYTHING NEEDS TO CHANGE
+#########
+
+num_regions <- 202    # There are 202 HUC4s, never changes
+
+in_table <- paste(variable_type, "-15458recs-1992-2012.csv", sep="")
+print(in_table)
+
+out_table <- paste("results-HUC4s-", variable_type, ".csv", sep="")
+print(out_table)
+
+mydata <- read.delim(in_table, header=T, sep=",")
+
+region_list <- sort(unique(mydata$HUC4))	# assigns region list as integers e.g. 0302 becomes 302; that's fine; make sure sorted
+
+# the first two columns (although could be any columns) of the csv should have "HUCID" (unique hucid, from 1 to 15458), and "HUC4",
+#    then the rest of the columns labeled as "year_x"  :
+
+# > head(mydata)
+#  HUCID HUC4 year_1 year_2 year_3 year_4 year_5
+#    1 1807    0.0    0.0    0.0    0.0    0.0
+#    2 1304    0.0  168.3  165.8    0.0    0.0
+#    3 1205    3.6    2.5    1.1    0.0    0.1
+#    4 1606   25.5   25.5   28.8   28.8    0.0
+#    5 1104    3.3    2.8   10.6    4.5    4.6
+#    6 1304    0.0    0.0    0.0    0.0    0.0
+
+
+myframe <- data.frame("HUC4-id", "tau", "pval", "pcorrected", "slope")	# write out table header for out_table
+write.table(myframe, out_table, sep = ",", append=TRUE, col.names=FALSE)
+
+
+for (i in 1:num_regions) {
+  print(i)
+  regiondata <- filter(mydata, HUC4 == region_list[i])		# subset to the HUC10 records for this HUC4, e.g. 0101 has 43 recs
+  num_recs <- nrow(regiondata)
+  cat(region_list[i], ", num_recs:", num_recs)
+
+  expandvars <- paste('year',1:num_periods,sep='_')  
+
+  newregiond <- select(regiondata, -HUC4)  # get rid of region id column, don't need it anymore
+
+  print(head(newregiond))
+
+  num_rows <- num_recs * num_periods  	# for reshape(): num_rows = num of HUC10s * num of time periods
+  #cat("num rows", num_rows)
+
+  newval <- reshape(newregiond,idvar="HUCID",varying=list(expandvars),v.names=c("value"),direction="long",new.row.names=1:num_rows)
+
+
+  # don't use log() of the vals because some recs have all 0s.  Get same result if use log or not anyway.
+
+  # run Regional Kendall Test, rkt(): use HUC10 id as the "blocking" id
+  # rkt() doesn't produce "corrected" p-vals if < 9 time periods, but save it anyway if it exists
+
+  rktout <- rkt(date=newval$time,y=newval$value,block=newval$HUCID,correct=TRUE,rep="m")	
+
+  print(rktout)
+  
+
+  pCorrect <- rktout$sl.correct		# p-value "corrected", not produced if less than 9 time periods
+  pRaw <- rktout$sl				# p-value
+  tau <- rktout$tau				# tau value
+  senSlope <- rktout$B				# Sen slope
+  pCorrect <- if(tau==0)  1 else pCorrect
+
+  #print(pCorrect)
+  #print(pRaw)
+  #print(tau)
+  #print(rktout)
+  #print(senSlope)
+
+  myframe <- data.frame(region_list[i], tau,pRaw,pCorrect,senSlope)
+  write.table(myframe, out_table, sep = ",", append=TRUE, col.names=FALSE)
+
+}
+
+###########################################
+#
+# Short names used in paper and file names
+###########################################
+#
+#     ** 1) Atmos Dep vars: **
+#
+# atmdep_ca
+# atmdep_cl
+# atmdep_mg
+# atmdep_n
+# atmdep_so4
+
+###########################
+#
+#    ** 2) CoA vars: **
+#
+#     * Crops: *
+# corng	
+# corns
+# wheat	
+# soybeans
+# rice
+# hayalf
+# cotton
+# 
+#     * Livestock: *
+# hogs
+# cows
+# chickens
+# sheep    
+
+###########################
+#    ** 3) Conservation Reserve Program (CRP)
+#
+# crp
+
+###########################
+#    ** 4) Dams and reservoirs (1972-2013)
+#
+# dam_normstor	# too few time periods
+# dam_density	# too few time periods
+# dam_majdens	# too few time periods
+
+###########################
+
+#    ** 5) Housing unit density (1970-2010) and population density (1990-2010)
+#
+# huden		# too few time periods
+# popden	# too few time periods
+
+###########################
+
+# 
+#     ** 6) Imperviousness: **
+#
+# imperv_nwalt	# too few time periods
+# imperv_nlcd	# too few time periods
+
+###########################
+
+# 
+#     ** 7) Irrigation **
+#
+# irrig_coa	# from Census of Ag: 1969-2012
+# irrig_usgs	# USGS irrigation data only 2002-2012
+# 	
+
+###########################
+
+# 
+#     ** 8) Land use **
+#
+# lu_nwalt_dev	# too few time periods between 1992-2012
+# lu_nwalt_ag	# too few time periods between 1992-2012
+# lu_nwalt_dev-nonres	# too few time periods between 1992-2012
+# lu_nwalt_dev-res	# too few time periods between 1992-2012
+# lu_nwalt_crops	# too few time periods between 1992-2012
+# lu_nwalt_mining	# too few time periods between 1992-2012
+# 	
+# lu_nlcd_dev	# too few time periods
+# lu_nlcd_ag	# too few time periods
+# 	
+
+###########################
+
+# 
+#     ** 9) Land use in riparian buffer **
+#
+# rip_lu_nwalt_dev	# too few time periods between 1992-2012
+# rip_lu_nwalt_ag	# too few time periods between 1992-2012
+# 	
+###########################
+
+# 
+#     ** 10) N and P from fertilizer **
+#
+# fert_n
+# fert_p
+# 	
+
+###########################
+
+# 
+#     ** 11) N and P from farm animal manure **
+#
+# manure_n
+# manure_p
+# 	
+
+###########################
+
+# 
+#     ** 12) Pesticides **
+#
+# pest_24d
+# pest_aceto		# aceto: only 4 time periods (begins 1997); but feasible to run it here
+# pest_alach
+# pest_atraz
+# pest_carba
+# pest_chlor
+# pest_cloth		# cloth: only 2007-2012: don't use in paper at all (min of 10 years to be in paper)
+# pest=diazi
+# pest_dicam
+# pest_fipro		# fipro: only exists for 2002-2012; can't run rkt()
+# pest_glyph
+# pest_imida		# imida: only 4 time periods (begins 1997); but feasible to run it here
+# pest_malat
+# pest_meto 
+# pest_simaz
+# pest_tebut
+# pest_thiam		# thiam: only exists for 2002-2012; can't run rkt()
+
+
+
+###########################
+
+# 
+#     ** 13) Road salt (1999-2015) **
+#
+# roadsalt	# run thru 2012 to be consistent
+# 	
+
+###########################
+
+# 
+#     ** 14) Timber (1999-2012) **
+#
+# timber	# doesn't go back to 1992
+# 	
+
+###########################
+
+# 
+#     ** 15) Freshwater withdrawal water use **
+#
+# wateruse	
+# 	
+
+###########################
+
+# 
+#     ** 16) WWTP data  **
+#
+# wwtp_n
+# wwtp_p	
+# 	
+
+###########################
+
+
+
