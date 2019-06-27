@@ -1,0 +1,968 @@
+uniqid_eco4,US_L4CODE,US_L4NAME,NA_L3CODE,areakm2
+1,10a,Channeled Scablands,10.1.2,11148.6
+2,10b,Loess Islands,10.1.2,12539.5
+3,10c,Umatilla Plateau,10.1.2,9615.1
+4,10d,Okanogan Drift Hills,10.1.2,2191.6
+5,10e,Pleistocene Lake Basins,10.1.2,16639.7
+6,10f,Dissected Loess Uplands,10.1.2,2975.9
+7,10g,Yakima Folds,10.1.2,11113.9
+8,10h,Palouse Hills,10.1.2,5515.7
+9,10i,Deep Loess Foothills,10.1.2,1360.6
+10,10j,Nez Perce Prairie,10.1.2,1879.0
+11,10k,Deschutes/John Day Canyons,10.1.2,1746.2
+12,10l,Lower Snake and Clearwater Canyons,10.1.2,1161.2
+13,10m,Okanogan Valley,10.1.2,3320.5
+14,10n,Umatilla Dissected Uplands,10.1.2,1924.1
+15,11a,John Day/Clarno Uplands,6.2.9,13006.9
+16,11b,John Day/Clarno Highlands,6.2.9,6412.8
+17,11c,Maritime-Influenced Zone,6.2.9,3845.0
+18,11d,Melange,6.2.9,3921.0
+19,11e,Wallowas/Seven Devils Mountains,6.2.9,2012.6
+20,11f,Canyons and Dissected Highlands,6.2.9,5043.8
+21,11g,Canyons and Dissected Uplands,6.2.9,5409.8
+22,11h,Continental Zone Highlands,6.2.9,4029.5
+23,11i,Continental Zone Foothills,6.2.9,11155.9
+24,11k,Blue Mountain Basins,6.2.9,2808.8
+25,11l,Mesic Forest Zone,6.2.9,6537.3
+26,11m,Subalpine-Alpine Zone,6.2.9,1606.5
+27,11n,Deschutes River Valley,6.2.9,4083.5
+28,11o,Cold Basins,6.2.9,1037.9
+29,12a,Treasure Valley,10.1.8,4665.6
+30,12b,Lava Fields,10.1.8,2905.4
+31,12c,Camas Prairie,10.1.8,1372.0
+32,12d,Dissected Plateaus and Teton Basin,10.1.8,2774.7
+33,12e,Upper Snake River Plain,10.1.8,3790.2
+34,12f,Semiarid Foothills,10.1.8,4036.8
+35,12g,Eastern Snake River Basalt Plains,10.1.8,16643.1
+36,12h,Mountain Home Uplands,10.1.8,7628.1
+37,12i,Magic Valley,10.1.8,4404.3
+38,12j,Unwooded Alkaline Foothills,10.1.8,5406.5
+39,13a,Salt Deserts,10.1.5,19306.0
+40,13aa,Sierra Nevada-Influenced Semiarid Hills and Basins,10.1.5,7003.0
+41,13ab,Sierra Valley,10.1.5,449.2
+42,13ac,Upper Owens Valley,10.1.5,1762.8
+43,13ad,Mono-Adobe Valleys,10.1.5,818.0
+44,13ae,Bishop Volcanic Tableland,10.1.5,447.8
+45,13b,Shadscale-Dominated Saline Basins,10.1.5,29461.5
+46,13c,Sagebrush Basins and Slopes,10.1.5,26409.5
+47,13d,Woodland- and Shrub-Covered Low Mountains,10.1.5,18561.3
+48,13e,High Elevation Carbonate Mountains,10.1.5,2688.7
+49,13f,Moist Wasatch Front Footslopes,10.1.5,2305.9
+50,13g,Wetlands,10.1.5,1994.0
+51,13h,Lahontan and Tonopah Playas,10.1.5,8051.7
+52,13i,Malad and Cache Valleys,10.1.5,2660.2
+53,13j,Lahontan Salt Shrub Basin,10.1.5,24826.2
+54,13k,Lahontan Sagebrush Slopes,10.1.5,12342.5
+55,13l,Lahontan Uplands,10.1.5,2214.7
+56,13m,Upper Humboldt Plains,10.1.5,13584.2
+57,13n,Mid-Elevation Ruby Mountains,10.1.5,1209.8
+58,13o,High Elevation Ruby Mountains,10.1.5,319.9
+59,13p,Carbonate Sagebrush Valleys,10.1.5,24664.2
+60,13q,Carbonate Woodland Zone,10.1.5,16817.9
+61,13r,Central Nevada High Valleys,10.1.5,19757.7
+62,13s,Central Nevada Mid-Slope Woodland and Brushland,10.1.5,9286.8
+63,13t,Central Nevada Bald Mountains,10.1.5,3163.9
+64,13u,Tonopah Basin,10.1.5,25283.4
+65,13v,Tonopah Sagebrush Foothills,10.1.5,9460.8
+66,13w,Tonopah Uplands,10.1.5,2034.2
+67,13x,Sierra Nevada-Influenced Ranges,10.1.5,8176.0
+68,13y,Sierra Nevada-Influenced High Elevation Mountains,10.1.5,1740.6
+69,13z,Upper Lahontan Basin,10.1.5,11987.3
+70,14a,Eastern Mojave Basins,10.2.1,36428.9
+71,14b,Eastern Mojave Low Ranges and Arid Footslopes,10.2.1,31408.1
+72,14c,Eastern Mojave Mountain Woodland and Shrubland,10.2.1,2516.2
+73,14d,Eastern Mojave High Elevation Mountains,10.2.1,285.5
+74,14e,Arid Valleys and Canyonlands,10.2.1,6549.9
+75,14f,Mojave Playas,10.2.1,1816.8
+76,14g,Amargosa Desert,10.2.1,6546.4
+77,14h,Death Valley/Mojave Central Trough,10.2.1,6835.8
+78,14i,Mesquite Flat/Badwater Basin,10.2.1,764.4
+79,14j,Western Mojave Basins,10.2.1,17113.3
+80,14k,Western Mojave Low Ranges and Arid Footslopes,10.2.1,13529.6
+81,14l,Western Mojave Mountain Woodland and Shrubland,10.2.1,893.9
+82,14m,Western Mojave High Elevation Mountains,10.2.1,66.1
+83,14n,Mojave Lava Fields,10.2.1,409.1
+84,14o,Mojave Sand Dunes,10.2.1,333.5
+85,14p,Lower Grand Canyon,10.2.1,2193.6
+86,15a,Grave Creek Range-Nine Mile Divide,6.2.3,5079.2
+87,15b,Camas Valley,6.2.3,490.8
+88,15c,Flathead Valley,6.2.3,2612.3
+89,15d,Tobacco Plains,6.2.3,123.1
+90,15e,Flathead Hills and Mountains,6.2.3,1649.3
+91,15f,Grassy Potlatch Ridges,6.2.3,1168.8
+92,15g,Western Okanogan Semiarid Foothills,6.2.3,2054.5
+93,15h,High Northern Rockies,6.2.3,1462.3
+94,15i,Clearwater Mountains and Breaks,6.2.3,3589.6
+95,15j,Lower Clearwater Canyons,6.2.3,1536.5
+96,15k,Clark Fork Valley and Mountains,6.2.3,2166.9
+97,15l,Salish Mountains,6.2.3,10167.1
+98,15m,Kootenai Valley,6.2.3,543.6
+99,15n,Weippe Prairie,6.2.3,697.1
+100,15o,Coeur d Alene Metasedimentary Zone,6.2.3,4898.6
+101,15p,St. Joe Schist-Gneiss Zone,6.2.3,8482.1
+102,15q,Purcell-Cabinet-North Bitterroot Mountains,6.2.3,4753.8
+103,15r,Okanogan-Colville Xeric Valleys and Foothills,6.2.3,7518.6
+104,15s,Spokane Valley Outwash Plains,6.2.3,2356.6
+105,15t,Stillwater-Swan Wooded Valley,6.2.3,2026.1
+106,15u,Inland Maritime Foothills and Valleys,6.2.3,3651.1
+107,15v,Northern Idaho Hills and Low Relief Mountains,6.2.3,3384.3
+108,15w,Western Selkirk Maritime Forest,6.2.3,1070.7
+109,15x,Okanogan Highland Dry Forest,6.2.3,4953.4
+110,15y,Selkirk Mountains,6.2.3,5524.2
+111,16a,Eastern Batholith,6.2.15,3405.3
+112,16b,Lochsa Uplands,6.2.15,2008.8
+113,16c,Lochsa-Selway-Clearwater Canyons,6.2.15,2977.5
+114,16d,Dry Partly Wooded Mountains,6.2.15,3657.0
+115,16e,Glaciated Bitterroot Mountains and Canyons,6.2.15,2322.1
+116,16f,Foothill Shrublands-Grasslands,6.2.15,3678.9
+117,16g,High Glacial Drift-Filled Valleys,6.2.15,1513.2
+118,16h,High Idaho Batholith,6.2.15,3743.3
+119,16i,South Clearwater Forested Mountains,6.2.15,6984.7
+120,16j,Hot Dry Canyons,6.2.15,3908.5
+121,16k,Southern Forested Mountains,6.2.15,26084.4
+122,17a,Black Hills Foothills,6.2.10,7337.8
+123,17aa,Dry Intermontane Sagebrush Valleys,6.2.10,11434.3
+124,17ab,Dry Gneissic-Schistose-Volcanic Hills,6.2.10,13092.2
+125,17ac,Big Hole,6.2.10,1637.8
+126,17ad,Western Beaverhead Mountains,6.2.10,661.5
+127,17ae,Forested Beaverhead Mountains,6.2.10,1160.9
+128,17af,Centennial Basin,6.2.10,555.3
+129,17ag,Pioneer-Anaconda Ranges,6.2.10,2552.5
+130,17ah,Eastern Pioneer Sedimentary Mountains,6.2.10,817.8
+131,17ai,Elkhorn Mountains-Boulder Batholith,6.2.10,3906.6
+132,17aj,Eastern Divide Mountains,6.2.10,1721.4
+133,17ak,Deer Lodge-Philipsburg-Avon Grassy Intermontane Hills and Valleys,6.2.10,2971.6
+134,17al,Southern Garnet Sedimentary-Volcanic Mountains,6.2.10,988.8
+135,17am,Flint Creek-Anaconda Mountains,6.2.10,2104.2
+136,17ao,Absaroka Volcanic Subalpine Zone,6.2.10,3503.2
+137,17ap,Sedimentary Subalpine Zone,6.2.10,5149.2
+138,17b,Black Hills Plateau,6.2.10,4743.2
+139,17c,Black Hills Core Highlands,6.2.10,1854.9
+140,17d,Eastern Gravelly Mountains,6.2.10,677.0
+141,17e,Barren Mountains,6.2.10,6891.6
+142,17f,Crazy Mountains,6.2.10,830.3
+143,17g,Mid-elevation Sedimentary Mountains,6.2.10,9608.5
+144,17h,Alpine Zone,6.2.10,10987.4
+145,17i,Absaroka-Gallatin Volcanic Mountains,6.2.10,8410.4
+146,17j,Yellowstone Plateau,6.2.10,8158.8
+147,17k,Granitic Subalpine Zone,6.2.10,5709.7
+148,17l,Gneissic-Schistose Forested Mountains,6.2.10,3371.0
+149,17m,Dry Mid-elevation Sedimentary Mountains,6.2.10,5061.3
+150,17n,High Elevation Valleys,6.2.10,2824.5
+151,17o,Partly Forested Mountains,6.2.10,5840.9
+152,17p,Foothill Potholes,6.2.10,647.5
+153,17q,Big Snowy-Little Belt Carbonate Mountains,6.2.10,4637.5
+154,17r,Scattered Eastern Igneous-Core Mountains,6.2.10,2284.8
+155,17s,Bitterroot-Frenchtown Valley,6.2.10,1803.7
+156,17t,Limy Foothill Savanna,6.2.10,1160.0
+157,17u,Paradise Valley,6.2.10,415.2
+158,17v,Big Belt Forested Highlands,6.2.10,1565.0
+159,17w,Townsend Basin,6.2.10,6931.6
+160,17x,Rattlesnake-Blackfoot-South Swan-Northern Garnet-Sapphire Mountains,6.2.10,8256.3
+161,17y,Townsend-Horseshoe-London Sedimentary Hills,6.2.10,1494.1
+162,17z,Tobacco Root Mountains,6.2.10,701.6
+163,18a,Rolling Sagebrush Steppe,10.1.4,65325.9
+164,18b,Bighorn Basin,10.1.4,9657.0
+165,18c,Sub-Irrigated High Valleys,10.1.4,7114.6
+166,18d,Foothill Shrublands and Low Mountains,10.1.4,22006.5
+167,18e,Salt Desert Shrub Basins,10.1.4,11850.5
+168,18f,Laramie Basin,10.1.4,4751.7
+169,18g,Bighorn Salt Desert Shrub Basins,10.1.4,11975.6
+170,19a,Alpine Zone,6.2.13,1344.2
+171,19b,Uinta Subalpine Forests,6.2.13,1869.2
+172,19c,Mid-Elevation Uinta Mountains,6.2.13,4351.2
+173,19d,Wasatch Montane Zone,6.2.13,9840.5
+174,19e,High Plateaus,6.2.13,7808.4
+175,19f,Semiarid Foothills,6.2.13,16981.4
+176,19g,Mountain Valleys,6.2.13,3498.9
+177,1a,Coastal Lowlands,7.1.8,3410.2
+178,1b,Coastal Uplands,7.1.8,6813.3
+179,1c,Low Olympics,7.1.8,4428.3
+180,1d,Volcanics,7.1.8,9285.8
+181,1e,Outwash,7.1.8,918.1
+182,1f,Willapa Hills,7.1.8,5261.4
+183,1g,Mid-Coastal Sedimentary,7.1.8,9691.9
+184,1h,Southern Oregon Coastal Mountains,7.1.8,1770.7
+185,1i,Northern Franciscan Redwood Forest,7.1.8,3864.2
+186,1j,King Range/Mattole Basin,7.1.8,1902.7
+187,1k,Coastal Franciscan Redwood Forest,7.1.8,4294.2
+188,1l,Fort Bragg/Fort Ross Terraces,7.1.8,483.2
+189,1m,Point Reyes/Farallon Islands,7.1.8,254.2
+190,1n,Santa Cruz Mountains,7.1.8,1586.8
+191,1o,San Mateo Coastal Hills,7.1.8,285.2
+192,20a,Monticello-Cortez Uplands,10.1.6,3338.5
+193,20b,Shale Deserts and Sedimentary Basins,10.1.6,17200.0
+194,20c,Semiarid Benchlands and Canyonlands,10.1.6,69317.9
+195,20d,Arid Canyonlands,10.1.6,16757.3
+196,20e,Escarpments,10.1.6,13722.6
+197,20f,Uinta Basin Floor,10.1.6,6871.5
+198,20g,Northern Uinta Basin Slopes,10.1.6,1830.6
+199,20h,Sand Deserts,10.1.6,5343.2
+200,20i,Cold Desert Sagebrush-Grasslands,10.1.6,2194.1
+201,21a,Alpine Zone,6.2.14,9968.5
+202,21b,Crystalline Subalpine Forests,6.2.14,15841.7
+203,21c,Crystalline Mid-Elevation Forests,6.2.14,20170.3
+204,21d,Foothill Shrublands,6.2.14,29377.3
+205,21e,Sedimentary Subalpine Forests,6.2.14,17467.6
+206,21f,Sedimentary Mid-Elevation Forests,6.2.14,27512.1
+207,21g,Volcanic Subalpine Forests,6.2.14,11584.1
+208,21h,Volcanic Mid-Elevation Forests,6.2.14,4489.2
+209,21i,Sagebrush Parks,6.2.14,5332.4
+210,21j,Grassland Parks,6.2.14,3957.9
+211,22a,San Luis Shrublands and Hills,10.1.7,3341.9
+212,22aa,Hualapai/Coconino Woodlands,10.1.7,5578.4
+213,22b,San Luis Alluvial Flats and Wetlands,10.1.7,3322.8
+214,22c,Salt Flats,10.1.7,2242.1
+215,22d,Virgin/Shivwits Woodland,10.1.7,1833.8
+216,22e,Sand Dunes and Sand Sheets,10.1.7,659.0
+217,22f,Taos Plateau,10.1.7,2172.1
+218,22g,Rio Grande Floodplain,10.1.7,939.3
+219,22h,North Central New Mexico Valleys and Mesas,10.1.7,3591.7
+220,22i,San Juan/Chaco Tablelands and Mesas,10.1.7,17778.2
+221,22j,Semiarid Tablelands,10.1.7,32866.0
+222,22k,Lava Malpais,10.1.7,620.0
+223,22l,Plains of San Agustin,10.1.7,2634.0
+224,22m,Albuquerque Basin,10.1.7,7469.8
+225,22n,Near-Rockies Valleys and Mesas,10.1.7,2553.4
+226,22o,Northeast Arizona Shrub-Grasslands,10.1.7,9958.9
+227,22p,Little Colorado Valley/Painted Desert,10.1.7,5543.3
+228,22q,Dinetah Tablelands,10.1.7,10844.8
+229,22r,Mesa Highlands,10.1.7,1893.1
+230,22s,Hopi Buttes,10.1.7,980.9
+231,22t,Chinle Valley and Mesas,10.1.7,4824.3
+232,22u,Kaibito/Moenkopi Sandy Plateaus,10.1.7,7975.3
+233,22v,Marble Platform,10.1.7,2335.4
+234,22w,Grand Canyon,10.1.7,2992.9
+235,22x,Arizona Strip Plateaus,10.1.7,4529.7
+236,22y,Uinkaret/Aubrey Montane Conifer Forest,10.1.7,457.0
+237,22z,Chino/Coconino Grasslands and Shrubsteppe,10.1.7,6921.4
+238,23a,Chihuahuan Desert Slopes,13.1.1,2161.8
+239,23b,Madrean Lower Montane Woodlands,13.1.1,27846.0
+240,23c,Montane Conifer Forests,13.1.1,25596.9
+241,23d,Arizona/New Mexico Subalpine Forests,13.1.1,1899.7
+242,23e,Conifer Woodlands and Savannas,13.1.1,24337.1
+243,23f,Rocky Mountain Conifer Forests,13.1.1,4292.7
+244,23g,Rocky Mountain Subalpine Forests,13.1.1,116.5
+245,23h,Lower Mogollon Transition,13.1.1,14272.4
+246,23i,Montane and Subalpine Grasslands,13.1.1,340.7
+247,23j,Northern Woodlands and Sagebrush,13.1.1,5229.6
+248,23k,Sunset Crater Volcanics,13.1.1,315.7
+249,23l,Mogollon Transition Conifer Forests,13.1.1,4500.0
+250,24a,Chihuahuan Basins and Playas,10.2.4,69852.9
+251,24b,Chihuahuan Desert Grasslands,10.2.4,46965.6
+252,24c,Low Mountains and Bajadas,10.2.4,31280.7
+253,24d,Chihuahuan Montane Woodlands,10.2.4,3700.5
+254,24e,Stockton Plateau,10.2.4,8726.4
+255,24f,Rio Grande Floodplain,10.2.4,1836.9
+256,24g,Gypsiferous Dunes,10.2.4,960.6
+257,24h,Lava Malpais,10.2.4,735.9
+258,25a,Pine Ridge Escarpment,9.4.1,5433.6
+259,25b,Rolling Sand Plains,9.4.1,27431.6
+260,25c,Moderate Relief Plains,9.4.1,32680.9
+261,25d,Flat to Rolling Plains,9.4.1,84042.2
+262,25e,Canadian/Cimarron High Plains,9.4.1,22213.9
+263,25f,Pine Bluffs and Hills,9.4.1,5404.0
+264,25g,Sandy and Silty Tablelands,9.4.1,8582.2
+265,25h,Platte River Valley and Terraces,9.4.1,6677.6
+266,25i,Llano Estacado,9.4.1,59987.9
+267,25j,Shinnery Sands,9.4.1,15528.7
+268,25k,Arid Llano Estacado,9.4.1,18312.4
+269,25l,Front Range Fans,9.4.1,2024.2
+270,26a,Canadian/Cimarron Breaks,9.4.3,28561.3
+271,26b,Flat Tablelands and Valleys,9.4.3,16717.5
+272,26c,"Caprock Canyons, Badlands, and Breaks",9.4.3,26813.9
+273,26d,Semiarid Canadian Breaks,9.4.3,12123.6
+274,26e,Piedmont Plains and Tablelands,9.4.3,34585.5
+275,26f,Mesa de Maya/Black Mesa,9.4.3,4013.4
+276,26g,Purgatoire Hills and Canyons,9.4.3,2696.3
+277,26h,Pinyon-Juniper Woodlands and Savannas,9.4.3,10941.5
+278,26i,Pine-Oak Woodlands,9.4.3,1503.7
+279,26j,Foothill Grasslands,9.4.3,4674.6
+280,26k,Sandsheets,9.4.3,1466.4
+281,26l,Upper Canadian Plateau,9.4.3,14625.9
+282,26m,Canadian Canyons,9.4.3,3986.6
+283,26n,Conchas/Pecos Plains,9.4.3,10602.5
+284,26o,Central New Mexico Plains,9.4.3,18905.0
+285,26p,Pluvial Lake Basins,9.4.3,1334.0
+286,26q,Southern New Mexico Dissected Plains,9.4.3,5278.6
+287,27a,Smoky Hills,9.4.2,20289.8
+288,27b,Rolling Plains and Breaks,9.4.2,64075.8
+289,27c,Great Bend Sand Prairie,9.4.2,10664.6
+290,27d,Prairie Tableland,9.4.2,33364.6
+291,27e,Central Nebraska Loess Plains,9.4.2,17104.4
+292,27f,Rainwater Basin Plains,9.4.2,19086.1
+293,27g,Platte River Valley,9.4.2,7928.8
+294,27h,Red Prairie,9.4.2,27687.0
+295,27i,Broken Red Plains,9.4.2,18748.9
+296,27j,Limestone Plains,9.4.2,11999.5
+297,27k,Wichita Mountains,9.4.2,945.4
+298,27l,Pleistocene Sand Dunes,9.4.2,6730.7
+299,27m,Red River Tablelands,9.4.2,2699.8
+300,27n,Gypsum Hills,9.4.2,1440.0
+301,27o,Cross Timbers Transition,9.4.2,15282.4
+302,27p,Salt Plains,9.4.2,160.0
+303,27q,Rolling Red Hills,9.4.2,16488.1
+304,27r,Limestone Hills,9.4.2,266.9
+305,28a,Flint Hills,9.4.4,27932.2
+306,29a,Northern Cross Timbers,9.4.5,23616.2
+307,29b,Eastern Cross Timbers,9.4.5,6763.4
+308,29c,Western Cross Timbers,9.4.5,23265.9
+309,29d,Grand Prairie,9.4.5,8762.6
+310,29e,Limestone Cut Plain,9.4.5,15816.9
+311,29f,Carbonate Cross Timbers,9.4.5,2105.2
+312,29g,Arbuckle Uplift,9.4.5,2528.7
+313,29h,Northwestern Cross Timbers,9.4.5,4791.6
+314,29i,Arbuckle Mountains,9.4.5,537.8
+315,2a,Fraser Lowland,7.1.7,916.8
+316,2b,Eastern Puget Riverine Lowlands,7.1.7,1751.0
+317,2c,San Juan Islands,7.1.7,599.6
+318,2d,Olympic Rainshadow,7.1.7,2029.7
+319,2e,Eastern Puget Uplands,7.1.7,2947.8
+320,2f,Central Puget Lowland,7.1.7,4587.5
+321,2g,Southern Puget Prairies,7.1.7,2095.3
+322,2h,Cowlitz/Chehalis Foothills,7.1.7,1117.9
+323,2i,Cowlitz/Newaukum Prairie Floodplains,7.1.7,925.3
+324,30a,Edwards Plateau Woodland,9.4.6,24331.5
+325,30b,Llano Uplift,9.4.6,4333.9
+326,30c,Balcones Canyonlands,9.4.6,17597.8
+327,30d,Semiarid Edwards Plateau,9.4.6,28700.8
+328,31a,Northern Nueces Alluvial Plains,9.6.1,7101.1
+329,31b,Semiarid Edwards Bajada,9.6.1,2214.2
+330,31c,Texas-Tamaulipan Thornscrub,9.6.1,43333.4
+331,31d,Rio Grande Floodplain and Terraces,9.6.1,774.3
+332,32a,Northern Blackland Prairie,9.4.7,35813.2
+333,32b,Southern Blackland/Fayette Prairie,9.4.7,6612.2
+334,32c,Floodplains and Low Terraces,9.4.7,956.7
+335,33a,Northern Post Oak Savanna,8.3.8,13346.8
+336,33b,Southern Post Oak Savanna,8.3.8,36122.0
+337,33c,San Antonio Prairie,8.3.8,1111.6
+338,33d,Northern Prairie Outliers,8.3.8,1089.4
+339,33e,Bastrop Lost Pines,8.3.8,227.0
+340,33f,Floodplains and Low Terraces,8.3.8,3855.8
+341,34a,Northern Humid Gulf Coastal Prairies,9.5.1,30018.4
+342,34b,Southern Subhumid Gulf Coastal Prairies,9.5.1,10097.1
+343,34c,Floodplains and Low Terraces,9.5.1,4902.6
+344,34d,Coastal Sand Plain,9.5.1,9198.8
+345,34e,Lower Rio Grande Valley,9.5.1,4245.3
+346,34f,Lower Rio Grande Alluvial Floodplain,9.5.1,1780.8
+347,34g,Texas-Louisiana Coastal Marshes,9.5.1,7290.9
+348,34h,Mid-Coast Barrier Islands and Coastal Marshes,9.5.1,3071.2
+349,34i,Laguna Madre Barrier Islands and Coastal Marshes,9.5.1,1942.0
+350,34j,Lafayette Loess Plains,9.5.1,2859.8
+351,35a,Tertiary Uplands,8.3.7,59225.5
+352,35b,Floodplains and Low Terraces,8.3.7,9030.0
+353,35c,Pleistocene Fluvial Terraces,8.3.7,16668.6
+354,35d,Cretaceous Dissected Uplands,8.3.7,8418.6
+355,35e,Southern Tertiary Uplands,8.3.7,35132.7
+356,35f,Flatwoods,8.3.7,14145.0
+357,35g,Red River Bottomlands,8.3.7,7700.5
+358,35h,Blackland Prairie,8.3.7,1811.0
+359,36a,Athens Plateau,8.4.8,4819.6
+360,36b,Central Mountain Ranges,8.4.8,3662.9
+361,36c,"Central Hills, Ridges, and Valleys",8.4.8,3153.3
+362,36d,Fourche Mountains,8.4.8,9075.7
+363,36e,Western Ouachitas,8.4.8,4694.7
+364,36f,Western Ouachita Valleys,8.4.8,1489.7
+365,37a,Scattered High Ridges and Mountains,8.4.7,3309.5
+366,37b,Arkansas River Floodplain,8.4.7,1424.4
+367,37c,Arkansas Valley Hills,8.4.7,7177.4
+368,37d,Arkansas Valley Plains,8.4.7,9684.1
+369,37e,Lower Canadian Hills,8.4.7,6825.9
+370,38a,Upper Boston Mountains,8.4.6,4036.6
+371,38b,Lower Boston Mountains,8.4.6,10140.9
+372,39a,Springfield Plateau,8.4.5,19429.0
+373,39b,Dissected Springfield Plateau-Elk River Hills,8.4.5,10644.6
+374,39c,White River Hills,8.4.5,12274.6
+375,39d,Central Plateau,8.4.5,24485.6
+376,39e,Osage/Gasconade Hills,8.4.5,13053.5
+377,39f,St. Francois Knobs and Basins,8.4.5,4118.2
+378,39g,Meramec River Hills,8.4.5,4600.6
+379,39h,Current River Hills,8.4.5,8065.4
+380,39i,Eastern Ozark Border,8.4.5,4752.7
+381,39j,Black River Hills Border,8.4.5,2787.0
+382,39k,Prairie Ozark Border,8.4.5,2180.1
+383,3a,Portland/Vancouver Basin,7.1.9,1487.5
+384,3b,Willamette River and Tributaries Gallery Forest,7.1.9,1747.5
+385,3c,Prairie Terraces,7.1.9,5105.0
+386,3d,Valley Foothills,7.1.9,6544.6
+387,40a,Loess Flats and Till Plains,9.2.4,43967.8
+388,40b,Osage Cuestas,9.2.4,36033.4
+389,40c,Wooded Osage Plains,9.2.4,13860.3
+390,40d,Cherokee Plains,9.2.4,9848.8
+391,40e,Claypan Prairie,9.2.4,10613.6
+392,41a,Northern Front,6.2.4,1554.2
+393,41b,Crestal Alpine-Subalpine Zone,6.2.4,3581.5
+394,41c,Western Canadian Rockies,6.2.4,9360.7
+395,41d,Southern Carbonate Front,6.2.4,2915.0
+396,41e,Flathead Thrust Faulted Carbonate-Rich Mountains,6.2.4,1468.3
+397,42a,Missouri Coteau,9.3.1,23623.7
+398,42b,Collapsed Glacial Outwash,9.3.1,4885.4
+399,42c,Miissouri Coteau Slope,9.3.1,15004.8
+400,42d,Northern Missouri Coteau,9.3.1,4497.0
+401,42e,Southern Missouri Coteau,9.3.1,6169.5
+402,42f,Southern Missouri Coteau Slope,9.3.1,12103.0
+403,42g,Ponca Plains,9.3.1,2871.3
+404,42h,Southern River Breaks,9.3.1,3844.3
+405,42i,Glaciated Dark Brown Prairie,9.3.1,20671.4
+406,42j,Glaciated Northern Grasslands,9.3.1,29893.0
+407,42k,Coteau Lakes Upland,9.3.1,1003.1
+408,42l,Sweetgrass Uplands,9.3.1,466.6
+409,42m,Cherry Patch Moraines,9.3.1,2418.7
+410,42n,Milk River Pothole Upland,9.3.1,670.0
+411,42o,North Central Brown Glaciated Plains,9.3.1,29370.6
+412,42p,Holt Tablelands,9.3.1,3629.1
+413,42q,Rocky Mountain Front Foothill Potholes,9.3.1,2495.7
+414,42r,Foothill Grassland,9.3.1,11266.0
+415,43a,Missouri Plateau,9.3.3,61590.5
+416,43b,Little Missouri Badlands,9.3.3,6509.4
+417,43c,River Breaks,9.3.3,37785.4
+418,43d,Forested Buttes,9.3.3,1094.4
+419,43e,Sagebrush Steppe,9.3.3,16549.3
+420,43f,Subhumid Pierre Shale Plains,9.3.3,19537.5
+421,43g,Semiarid Pierre Shale Plains,9.3.3,18224.8
+422,43h,White River Badlands,9.3.3,5531.7
+423,43i,Keya Paha Tablelands,9.3.3,10699.8
+424,43j,Moreau Prairie,9.3.3,10717.3
+425,43k,Dense Clay Prairie,9.3.3,3672.0
+426,43l,Missouri Breaks Woodland-Scrubland,9.3.3,8288.8
+427,43m,Judith Basin Grassland,9.3.3,7724.2
+428,43n,Montana Central Grasslands,9.3.3,59732.2
+429,43o,Unglaciated Montana High Plains,9.3.3,9779.5
+430,43p,Pine Scoria Hills,9.3.3,16423.3
+431,43q,Mesic Dissected Plains,9.3.3,6036.4
+432,43r,Niobrara River Breaks,9.3.3,1270.4
+433,43s,Non-calcareous Foothill Grassland,9.3.3,5373.9
+434,43t,Shield-Smith Valleys,9.3.3,4023.1
+435,43u,Limy Foothill Grassland,9.3.3,3247.9
+436,43v,Pryor-Bighorn Foothills,9.3.3,5669.4
+437,43w,Powder River Basin,9.3.3,34690.2
+438,43x,Casper Arch,9.3.3,3411.2
+439,44a,Sand Hills,9.3.4,39162.8
+440,44b,Alkaline Lakes Area,9.3.4,3723.6
+441,44c,Wet Meadow and Marsh Plain,9.3.4,4918.3
+442,44d,Lakes Area,9.3.4,11317.9
+443,45a,Southern Inner Piedmont,8.3.4,20362.7
+444,45b,Southern Outer Piedmont,8.3.4,68102.5
+445,45c,Carolina Slate Belt,8.3.4,20693.2
+446,45d,Talladega Upland,8.3.4,2537.2
+447,45e,Northern Inner Piedmont,8.3.4,29989.3
+448,45f,Northern Outer Piedmont,8.3.4,18177.0
+449,45g,Triassic Basins,8.3.4,4710.5
+450,45h,Pine Mountain Ridges,8.3.4,794.7
+451,45i,Kings Mountain,8.3.4,749.6
+452,46a,Pembina Escarpment,9.2.1,704.0
+453,46b,Turtle Mountains,9.2.1,1046.5
+454,46c,Glacial Lake Basins,9.2.1,9281.7
+455,46d,Glacial Lake Deltas,9.2.1,4862.1
+456,46e,Tewaukon/Big Stone Stagnation Moraine,9.2.1,7245.3
+457,46f,End Moraine Complex,9.2.1,3932.1
+458,46g,Northern Black Prairie,9.2.1,13019.9
+459,46h,Northern Dark Brown Prairie,9.2.1,2838.6
+460,46i,Drift Plains,9.2.1,40426.5
+461,46j,Glacial Outwash,9.2.1,2304.6
+462,46k,Prairie Coteau,9.2.1,15518.6
+463,46l,Prairie Coteau Escarpment,9.2.1,1986.1
+464,46m,Big Sioux Basin,9.2.1,4947.8
+465,46n,James River Lowland,9.2.1,23925.5
+466,46o,Minnesota River Prairie,9.2.1,2767.1
+467,47a,Loess Prairies,9.2.3,16938.0
+468,47b,Des Moines Lobe,9.2.3,62477.8
+469,47c,Eastern Iowa and Minnesota Drift Plains,9.2.3,29022.2
+470,47d,Missouri Alluvial Plain,9.2.3,8021.9
+471,47e,Steeply Rolling Loess Prairies,9.2.3,14899.7
+472,47f,Rolling Loess Prairies,9.2.3,46227.5
+473,47g,Lower St. Croix and Vermillion Valleys,9.2.3,3094.6
+474,47h,Nebraska/Kansas Loess Hills,9.2.3,8626.8
+475,47i,Loess and Glacial Drift Hills,9.2.3,16730.1
+476,47j,Lower Platte Alluvial Plain,9.2.3,1135.7
+477,47k,Northeastern Nebraska Loess Hills,9.2.3,13980.9
+478,47l,Transitional Sandy Plain,9.2.3,2705.0
+479,47m,Western Loess Hills,9.2.3,4282.7
+480,48a,Glacial Lake Agassiz Basin,9.2.2,25449.6
+481,48b,Beach Ridges and Sand Deltas,9.2.2,9323.5
+482,48c,Saline Area,9.2.2,900.2
+483,48d,Lake Agassiz Plains,9.2.2,9387.4
+484,49a,Peatlands,5.2.2,16460.8
+485,49b,Forested Lake Plains,5.2.2,6369.7
+486,4a,Western Cascades Lowlands and Valleys,6.2.7,17953.3
+487,4b,Western Cascades Montane Highlands,6.2.7,13354.0
+488,4c,Cascade Crest Montane Forest,6.2.7,5747.2
+489,4d,Cascade Subalpine/Alpine,6.2.7,1991.0
+490,4e,High Southern Cascades Montane Forest,6.2.7,4588.4
+491,4f,Low Southern Cascades Mixed Conifer Forest,6.2.7,9677.7
+492,4g,California Cascades Eastside Conifer Forest,6.2.7,4025.0
+493,4h,Southern Cascades Foothills,6.2.7,1517.4
+494,50a,Lake Superior Clay Plain,5.2.1,6448.3
+495,50aa,Menominee-Drummond Lakeshore,5.2.1,6470.9
+496,50ab,Cheboygan Lake Plain,5.2.1,3294.4
+497,50ac,Onaway Moraines,5.2.1,4595.1
+498,50ad,Vanderbilt Moraines,5.2.1,3620.4
+499,50ae,Mio Plateau,5.2.1,11656.3
+500,50af,Cadillac Hummocky Moraines,5.2.1,7864.4
+501,50ag,Newaygo Barrens,5.2.1,4323.2
+502,50ah,Tawas Lake Plain,5.2.1,3109.8
+503,50b,Minnesota/Wisconsin Upland Till Plain,5.2.1,13373.7
+504,50c,St. Croix Pine Barrens,5.2.1,4628.3
+505,50d,Superior Mineral Ranges,5.2.1,5126.5
+506,50e,Chequamegon Moraines and Outwash Plain,5.2.1,4897.8
+507,50f,Blue Hills,5.2.1,1627.3
+508,50g,Chippewa Lobe Rocky Ground Moraines,5.2.1,9021.7
+509,50h,Perkinstown End Moraines,5.2.1,2109.0
+510,50i,Northern Wisconsin Highlands Lakes Country,5.2.1,7201.8
+511,50j,Brule and Paint River Drumlins,5.2.1,6874.0
+512,50k,Wisconsin/Michigan Pine Barrens,5.2.1,4300.2
+513,50l,Menominee Drumlins and Ground Moraine,5.2.1,6124.4
+514,50m,Mesabi Range,5.2.1,1360.9
+515,50n,Boundary Lakes and Hills,5.2.1,12315.6
+516,50o,Glacial Lakes Upham and Aitkin,5.2.1,6387.4
+517,50p,Toimi Drumlins,5.2.1,5593.5
+518,50q,Itasca and St. Louis Moraines,5.2.1,10171.0
+519,50r,Chippewa Plains,5.2.1,8692.3
+520,50s,Nashwauk/Marcell Moraines and Uplands,5.2.1,5035.7
+521,50t,North Shore Highlands,5.2.1,2876.4
+522,50u,Keweenaw-Baraga Moraines,5.2.1,2408.9
+523,50v,Winegar Dead Ice Moraine,5.2.1,6395.4
+524,50w,Michigamme Highland,5.2.1,3209.1
+525,50x,Grand Marais Lakeshore,5.2.1,5338.8
+526,50y,Seney-Tahquamenon Sand Plain,5.2.1,3765.2
+527,50z,Rudyard Clay Plain,5.2.1,1665.3
+528,51a,St. Croix Stagnation Moraines,8.1.4,5814.2
+529,51b,Central Wisconsin Undulating Till Plain,8.1.4,16047.4
+530,51c,Glacial Lake Wisconsin Sand Plain,8.1.4,7067.6
+531,51d,Central Sand Ridges,8.1.4,4085.4
+532,51e,Upper Wolf River Stagnation Moraine,8.1.4,2753.8
+533,51f,Green Bay Till and Lacustrine Plain,8.1.4,6235.7
+534,51g,Door Peninsula,8.1.4,1380.5
+535,51h,Anoka Sand Plain and Mississippi Valley Outwash,8.1.4,4536.8
+536,51i,Big Woods,8.1.4,8506.9
+537,51j,Alexandria Moraines and Detroit Lakes Outwash Plain,8.1.4,10729.5
+538,51k,McGrath Till Plain and Drumlins,8.1.4,9099.3
+539,51l,Wadena/Todd Drumlins and Osakis Till Plain,8.1.4,8104.4
+540,51m,Manistee-Leelanau Shore,8.1.4,3657.9
+541,51n,Platte River Outwash,8.1.4,889.9
+542,52a,Savanna Section,8.1.5,5738.7
+543,52b,Blufflands and Coulees,8.1.5,35874.1
+544,52c,Rochester/Paleozoic Plateau Upland,8.1.5,5773.7
+545,53a,Rock River Drift Plain,8.2.1,4430.6
+546,53b,Kettle Moraines,8.2.1,8133.1
+547,53c,Southeastern Wisconsin Savannah and Till Plain,8.2.1,11395.7
+548,53d,Lake Michigan Lacustrine Clay Plain,8.2.1,7390.8
+549,54a,Illinois/Indiana Prairies,8.2.3,54471.4
+550,54b,Chicago Lake Plain,8.2.3,1714.3
+551,54c,Kankakee Marsh,8.2.3,1213.2
+552,54d,Sand Area,8.2.3,7912.1
+553,54e,Chiwaukee Prairie Region,8.2.3,771.8
+554,54f,Valparaiso-Wheaton Morainal Complex,8.2.3,5561.4
+555,54g,Rock River Hills,8.2.3,4865.3
+556,55a,Clayey High Lime Till Plains,8.2.4,31994.9
+557,55b,Loamy High Lime Till Plains,8.2.4,36200.1
+558,55c,Mad River Interlobate Area,8.2.4,1701.2
+559,55d,Pre-Wisconsinan Drift Plains,8.2.4,10959.9
+560,55e,Darby Plains,8.2.4,2931.9
+561,55f,Whitewater Interlobate Area,8.2.4,3069.9
+562,56a,Northern Indiana Lake Country,8.1.6,3334.3
+563,56b,Battle Creek/Elkhart Outwash Plain,8.1.6,12581.6
+564,56c,Middle Tippecanoe Plains,8.1.6,2787.6
+565,56d,Michigan Lake Plain,8.1.6,6223.2
+566,56f,Lake Michigan Moraines,8.1.6,3686.3
+567,56g,Lansing Loamy Plain,8.1.6,15388.5
+568,56h,Interlobate Dead Ice Moraines,8.1.6,9032.8
+569,57a,Maumee Lake Plain,8.2.2,13608.0
+570,57b,Oak Openings,8.2.2,1435.7
+571,57c,Paulding Plains,8.2.2,1450.4
+572,57d,Marblehead Drift/Limestone Plain,8.2.2,2309.7
+573,57e,Saginaw Lake Plain,8.2.2,12790.6
+574,58a,Taconic Mountains,5.3.1,1836.9
+575,58aa,Acid Sensitive Adirondacks,5.3.1,8483.4
+576,58ab,Northern and Western Adirondack Foothills,5.3.1,6189.2
+577,58ac,Eastern Adirondack Foothills,5.3.1,4579.0
+578,58ad,Central Adirondacks,5.3.1,3722.5
+579,58ae,Tug Hill Plateau,5.3.1,1259.9
+580,58af,Tug Hill Transition,5.3.1,1702.1
+581,58ag,Rensselaer Plateau,5.3.1,420.7
+582,58b,Western New England Marble Valleys,5.3.1,2286.4
+583,58c,Green Mountains/Berkshire Highlands,5.3.1,8844.8
+584,58d,Lower Berkshire Hills,5.3.1,1137.2
+585,58e,Berkshire Transition,5.3.1,2259.0
+586,58f,Vermont Piedmont,5.3.1,4196.0
+587,58g,Worcester/Monadnock Plateau,5.3.1,6047.1
+588,58h,Reading Prong,5.3.1,1645.7
+589,58i,Glaciated Reading Prong/Hudson Highlands,5.3.1,2744.6
+590,58j,Upper Montane/Alpine Zone,5.3.1,3333.9
+591,58k,Green Mountain Foothills,5.3.1,1652.1
+592,58l,Northern Piedmont,5.3.1,4046.4
+593,58m,Quebec/New England Boundary Mountains,5.3.1,14405.2
+594,58n,White Mountain Foothills,5.3.1,2322.5
+595,58o,Northern Connecticut Valley,5.3.1,757.4
+596,58p,White Mountains/Blue Mountains,5.3.1,5254.9
+597,58q,Sunapee Uplands,5.3.1,2980.4
+598,58r,Sebago-Ossipee Hills and Plains,5.3.1,5997.2
+599,58s,Western Maine Foothills,5.3.1,2900.3
+600,58t,Upper St. John Wet Flats,5.3.1,885.5
+601,58u,Moosehead-Churchill Lakes,5.3.1,4118.5
+602,58v,St. John Uplands,5.3.1,9464.7
+603,58w,International Boundary Plateau,5.3.1,1904.9
+604,58x,Taconic Foothills,5.3.1,3527.4
+605,58y,Catskill High Peaks,5.3.1,2116.6
+606,58z,Adirondack High Peaks,5.3.1,1174.3
+607,59a,Connecticut Valley,8.1.7,3784.8
+608,59b,Lower Worcester Plateau/Eastern Connecticut Upland,8.1.7,2318.0
+609,59c,Southern New England Coastal Plains and Hills,8.1.7,11434.3
+610,59d,Boston Basin,8.1.7,1061.6
+611,59e,Narragansett/Bristol Lowland,8.1.7,3153.5
+612,59f,Gulf of Maine Coastal Lowland,8.1.7,4162.9
+613,59g,Long Island Sound Coastal Lowland,8.1.7,3628.3
+614,59h,Gulf of Maine Coastal Plain,8.1.7,7016.9
+615,59i,Hudson Valley,8.1.7,5507.5
+616,5a,Sierran Alpine,6.2.12,2391.9
+617,5b,Northern Sierra Subalpine Forests,6.2.12,1665.5
+618,5c,Northern Sierra Upper Montane Forests,6.2.12,6362.0
+619,5d,Northern Sierra Mid-Montane Forests,6.2.12,4282.0
+620,5e,Northern Sierra Lower Montane Forests,6.2.12,2241.8
+621,5f,Northeastern Sierra Mixed Conifer-Pine Forests,6.2.12,5650.6
+622,5g,Central Sierra Mid-Montane Forests,6.2.12,2094.9
+623,5h,Central Sierra Lower Montane Forests,6.2.12,4978.5
+624,5i,Eastern Sierra Great Basin Slopes,6.2.12,3414.8
+625,5j,Eastern Sierra Mojavean Slopes,6.2.12,1201.8
+626,5k,Southern Sierra Subalpine Forests,6.2.12,4999.7
+627,5l,Southern Sierra Upper Montane Forests,6.2.12,4333.2
+628,5m,Southern Sierra Mid-Montane Forests,6.2.12,3662.0
+629,5n,Southern Sierra Lower Montane Forest and Woodland,6.2.12,3479.6
+630,5o,Tehachapi Mountains,6.2.12,2344.0
+631,60a,Glaciated Low Allegheny Plateau,8.1.3,27197.5
+632,60b,Delaware-Neversink Highlands,8.1.3,4568.9
+633,60c,Catskills Transition,8.1.3,3762.8
+634,60d,Finger Lakes Uplands and Gorges,8.1.3,7075.3
+635,60e,Glaciated Allegheny Hills,8.1.3,1899.7
+636,60f,Cattaraugus Hills,8.1.3,2005.4
+637,61b,Mosquito Creek/Pymatuning Lowlands,8.1.10,3252.2
+638,61c,Low Lime Drift Plain,8.1.10,25464.8
+639,61d,Erie Gorges,8.1.10,853.4
+640,61e,Summit Interlobate Area,8.1.10,1389.2
+641,62a,Pocono High Plateau,5.3.3,1458.4
+642,62b,Low Poconos,5.3.3,3402.3
+643,62c,Glaciated High Allegheny Plateau,5.3.3,3772.8
+644,62d,Unglaciated High Allegheny Plateau,5.3.3,18094.1
+645,63a,Delaware River Terraces and Uplands,8.5.1,2628.6
+646,63b,Chesapeake-Pamlico Lowlands and Tidal Marshes,8.5.1,13243.5
+647,63c,Swamps and Peatlands,8.5.1,4820.5
+648,63d,Virginian Barrier Islands and Coastal Marshes,8.5.1,1532.8
+649,63e,Mid-Atlantic Flatwoods,8.5.1,9953.2
+650,63f,Delmarva Uplands,8.5.1,9324.7
+651,63g,Carolinian Barrier Islands and Coastal Marshes,8.5.1,1379.6
+652,63h,Carolina Flatwoods,8.5.1,29881.1
+653,63n,Mid-Atlantic Floodplains and Low Terraces,8.5.1,5712.3
+654,64a,Triassic Lowlands,8.3.1,8178.7
+655,64b,Trap Rock and Conglomerate Uplands,8.3.1,2633.3
+656,64c,Piedmont Uplands,8.3.1,16584.7
+657,64d,Piedmont Limestone/Dolomite Lowlands,8.3.1,1994.9
+658,64e,Glaciated Triassic Lowlands,8.3.1,1556.2
+659,64f,Passaic Basin Freshwater Wetlands,8.3.1,200.0
+660,64g,Hackensack Meadowlands,8.3.1,217.9
+661,65a,Blackland Prairie,8.3.5,11033.9
+662,65b,Flatwoods/Blackland Prairie Margins,8.3.5,11989.4
+663,65c,Sand Hills,8.3.5,20789.5
+664,65d,Southern Hilly Gulf Coastal Plain,8.3.5,50011.2
+665,65e,Northern Hilly Gulf Coastal Plain,8.3.5,20289.0
+666,65f,Southern Pine Plains and Hills,8.3.5,43039.1
+667,65g,Dougherty Plain,8.3.5,22035.0
+668,65h,Tifton Upland,8.3.5,11471.1
+669,65i,Fall Line Hills,8.3.5,19780.5
+670,65j,Transition Hills,8.3.5,3473.9
+671,65k,Coastal Plain Red Uplands,8.3.5,8375.7
+672,65l,Atlantic Southern Loam Plains,8.3.5,39099.9
+673,65m,Rolling Coastal Plain,8.3.5,27732.5
+674,65n,Chesapeake Rolling Coastal Plain,8.3.5,5850.1
+675,65o,Tallahasee Hills/Valdosta Limesink,8.3.5,8437.5
+676,65p,Southeastern Floodplains and Low Terraces,8.3.5,18167.8
+677,65q,Buhrstone/Lime Hills,8.3.5,4836.3
+678,65r,Jackson Prairie,8.3.5,2473.5
+679,66a,Northern Igneous Ridges,8.4.4,3699.3
+680,66b,Northern Sedimentary and Metasedimentary Ridges,8.4.4,1796.9
+681,66c,New River Plateau,8.4.4,4289.3
+682,66d,Southern Crystalline Ridges and Mountains,8.4.4,15119.0
+683,66e,Southern Sedimentary Ridges,8.4.4,3272.5
+684,66f,Limestone Valleys and Coves,8.4.4,362.8
+685,66g,Southern Metasedimentary Mountains,8.4.4,11340.8
+686,66i,High Mountains,8.4.4,974.2
+687,66j,Broad Basins,8.4.4,3646.4
+688,66k,Amphibolite Mountains,8.4.4,338.5
+689,66l,Eastern Blue Ridge Foothills,8.4.4,1691.1
+690,66m,Sauratown Mountains,8.4.4,65.0
+691,67a,Northern Limestone/Dolomite Valleys,8.4.1,13594.3
+692,67b,Northern Shale Valleys,8.4.1,17573.6
+693,67c,Northern Sandstone Ridges,8.4.1,14899.3
+694,67d,Northern Dissected Ridges and Knobs,8.4.1,12533.0
+695,67e,Anthracite Subregion,8.4.1,1554.8
+696,67f,Southern Limestone/Dolomite Valleys and Low Rolling Hills,8.4.1,30949.8
+697,67g,Southern Shale Valleys,8.4.1,10666.9
+698,67h,Southern Sandstone Ridges,8.4.1,8180.9
+699,67i,Southern Dissected Ridges and Knobs,8.4.1,2650.6
+700,67j,Northern Glaciated Limestone Valleys,8.4.1,644.9
+701,67k,Northern Glaciated Shale and Slate Valleys,8.4.1,2028.2
+702,67l,"Northern Glaciated Limestone Ridges, Valleys, and Terraces",8.4.1,674.6
+703,67m,Northern Glaciated Ridges,8.4.1,764.9
+704,68a,Cumberland Plateau,8.4.9,10082.8
+705,68b,Sequatchie Valley,8.4.9,1950.9
+706,68c,Plateau Escarpment,8.4.9,10376.5
+707,68d,Southern Table Plateaus,8.4.9,6274.8
+708,68e,Dissected Plateau,8.4.9,3644.7
+709,68f,Shale Hills,8.4.9,5666.1
+710,69a,Forested Hills and Mountains,8.4.2,15902.7
+711,69b,Uplands and Valleys of Mixed Land Use,8.4.2,9547.8
+712,69c,Greenbriar Karst,8.4.2,2654.9
+713,69d,Dissected Appalachian Plateau,8.4.2,31140.2
+714,69e,Cumberland Mountain Thrust Block,8.4.2,2804.3
+715,6a,Tuscan Flows,11.1.1,2552.6
+716,6aa,Eastern Hills,11.1.1,3833.3
+717,6ab,Pleasant Valley/Kettleman Plain,11.1.1,486.4
+718,6ac,Temblor Range/Elk Hills,11.1.1,1277.6
+719,6ad,Grapevine Transition,11.1.1,384.3
+720,6ae,Tehachapi Foothills,11.1.1,1684.9
+721,6af,Salinas Valley,11.1.1,1057.8
+722,6ag,Northern Santa Lucia Range,11.1.1,1875.3
+723,6ah,Santa Lucia Coastal Forest and Woodland,11.1.1,659.1
+724,6ai,Interior Santa Lucia Range,11.1.1,3899.6
+725,6aj,Southern Santa Lucia Range,11.1.1,2119.9
+726,6ak,Paso Robles Hills and Valleys,11.1.1,2583.5
+727,6al,Salinas-Cholame Hills,11.1.1,1214.8
+728,6am,Cuyama Valley,11.1.1,687.4
+729,6an,Carrizo Plain,11.1.1,914.3
+730,6ao,Caliente Range,11.1.1,670.5
+731,6ap,Solomon-Purisima-Santa Ynez Hills,11.1.1,2015.2
+732,6aq,Santa Maria/Santa Ynez Valleys,11.1.1,1209.5
+733,6ar,Upper Sacramento River Alluvium,11.1.1,265.4
+734,6b,Northern Sierran Foothills,11.1.1,7750.1
+735,6c,Southern Sierran Foothills,11.1.1,5458.0
+736,6d,Camanche Terraces,11.1.1,1332.9
+737,6e,Tehama Terraces,11.1.1,2452.7
+738,6f,Foothill Ridges and Valleys,11.1.1,4295.4
+739,6g,North Coast Range Eastern Slopes,11.1.1,2596.2
+740,6h,Western Valley Foothills/Dunnigan Hills,11.1.1,1077.4
+741,6i,Clear Lake Hills and Valleys,11.1.1,646.8
+742,6j,Mayacmas Mountains,11.1.1,1332.5
+743,6k,Napa-Sonoma-Lake Volcanic Highlands,11.1.1,1412.7
+744,6l,Napa-Sonoma-Russian River Valleys,11.1.1,1433.7
+745,6m,Sonoma-Mendocino Mixed Forest,11.1.1,1155.0
+746,6n,Bodega Coastal Hills,11.1.1,479.7
+747,6o,Marin Hills,11.1.1,779.8
+748,6p,Bay Flats,11.1.1,539.3
+749,6q,Suisun Terraces and Low Hills,11.1.1,819.9
+750,6r,East Bay Hills/Western Diablo Range,11.1.1,3477.8
+751,6s,San Francisco Peninsula,11.1.1,244.9
+752,6t,Bay Terraces/Lower Santa Clara Valley,11.1.1,1116.0
+753,6u,Livermore Hills and Valleys,11.1.1,540.9
+754,6v,Upper Santa Clara Valley,11.1.1,550.4
+755,6w,Monterey Bay Plains and Terraces,11.1.1,932.8
+756,6x,Leeward Hills,11.1.1,750.5
+757,6y,Gabilan Range,11.1.1,1189.3
+758,6z,Diablo Range,11.1.1,4922.0
+759,70a,Permian Hills,8.4.3,15805.5
+760,70b,Monongahela Transition Zone,8.4.3,24802.2
+761,70c,Pittsburgh Low Plateau,8.4.3,13526.4
+762,70d,Knobs-Lower Scioto Dissected Plateau,8.4.3,6958.0
+763,70e,Unglaciated Upper Muskingum Basin,8.4.3,7536.4
+764,70f,Ohio/Kentucky Carboniferous Plateau,8.4.3,9943.1
+765,70g,Northern Forested Plateau Escarpment,8.4.3,1586.9
+766,70h,Carter Hills,8.4.3,1281.7
+767,71a,Crawford-Mammoth Cave Uplands,8.3.3,13546.4
+768,71b,Mitchell Plain,8.3.3,6000.8
+769,71c,Knobs-Norman Upland,8.3.3,6136.1
+770,71d,Outer Bluegrass,8.3.3,15848.1
+771,71e,Western Pennyroyal Karst Plain,8.3.3,7373.4
+772,71f,Western Highland Rim,8.3.3,18823.3
+773,71g,Eastern Highland Rim,8.3.3,23201.6
+774,71h,Outer Nashville Basin,8.3.3,12304.1
+775,71i,Inner Nashville Basin,8.3.3,4324.2
+776,71j,Little Mountain,8.3.3,1082.8
+777,71k,Hills of the Bluegrass,8.3.3,7855.6
+778,71l,Inner Bluegrass,8.3.3,3508.3
+779,71m,Northern Shawnee Hills,8.3.3,1524.9
+780,71n,Southern Shawnee Hills,8.3.3,1997.7
+781,72a,Wabash-Ohio Bottomlands,8.3.2,8383.6
+782,72b,Glaciated Wabash Lowlands,8.3.2,7601.1
+783,72c,Green River-Southern Wabash Lowlands,8.3.2,12145.1
+784,72d,Upper Mississippi Alluvial Plain,8.3.2,7554.9
+785,72e,Middle Mississippi Alluvial Plain,8.3.2,2225.9
+786,72f,River Hills,8.3.2,25521.3
+787,72g,Southern Ozarkian River Bluffs,8.3.2,554.3
+788,72h,Caseyville Hills,8.3.2,4925.2
+789,72i,Western Dissected Illinoian Till Plain,8.3.2,17979.5
+790,72j,Southern Illinoian Till Plain,8.3.2,29984.8
+791,72k,Cretaceous Hills,8.3.2,602.8
+792,72l,Karstic Northern Ozarkian River Bluffs,8.3.2,936.1
+793,72m,Wabash River Bluffs and Low Hills,8.3.2,2032.7
+794,73a,Northern Holocene Meander Belts,8.5.2,28146.6
+795,73b,Northern Pleistocene Valley Trains,8.5.2,3672.1
+796,73c,St. Francis Lowlands,8.5.2,9027.3
+797,73d,Northern Backswamps,8.5.2,4717.5
+798,73e,Grand Prairie,8.5.2,5021.9
+799,73f,Western Lowlands Holocene Meander Belts,8.5.2,3409.1
+800,73g,Western Lowlands Pleistocene Valley Trains,8.5.2,12631.8
+801,73h,Arkansas/Ouachita River Holocene Meander Belts,8.5.2,5161.2
+802,73i,Arkansas/Ouachita River Backswamps,8.5.2,4689.8
+803,73j,Macon Ridge,8.5.2,4494.7
+804,73k,Southern Holocene Meander Belts,8.5.2,8558.8
+805,73l,Southern Pleistocene Valley Trains,8.5.2,504.9
+806,73m,Southern Backswamps,8.5.2,4460.6
+807,73n,Inland Swamps,8.5.2,7900.8
+808,73o,Deltaic Coastal Marshes and Barrier Islands,8.5.2,13722.7
+809,74a,Bluff Hills,8.3.6,8627.8
+810,74b,Loess Plains,8.3.6,28614.9
+811,74c,Southern Rolling Plains,8.3.6,11851.1
+812,74d,Baton Rouge Terrace,8.3.6,2715.9
+813,75a,Gulf Coast Flatwoods,8.5.3,25338.6
+814,75b,Southwestern Florida Flatwoods,8.5.3,22683.0
+815,75c,Central Florida Ridges and Uplands,8.5.3,15717.6
+816,75d,Eastern Florida Flatwoods,8.5.3,29551.4
+817,75e,Okefenokee Plains,8.5.3,8177.4
+818,75f,Sea Island Flatwoods,8.5.3,16492.9
+819,75g,Okefenokee Swamp,8.5.3,2411.9
+820,75h,Bacon Terraces,8.5.3,4771.0
+821,75i,Floodplains and Low Terraces,8.5.3,3614.4
+822,75j,Sea Islands/Coastal Marsh,8.5.3,9863.6
+823,75k,Gulf Barrier Islands and Coastal Marshes,8.5.3,1953.3
+824,75l,Big Bend Coastal Marsh,8.5.3,838.5
+825,76a,Everglades,15.4.1,11483.8
+826,76b,Big Cypress,15.4.1,5041.2
+827,76c,Miami Ridge/Atlantic Coastal Strip,15.4.1,3453.8
+828,76d,Southern Coast and Islands,15.4.1,2554.6
+829,77a,North Cascades Lowland Forests,6.2.5,5187.9
+830,77b,North Cascades Highland Forests,6.2.5,8152.5
+831,77c,North Cascades Subalpine/Alpine,6.2.5,4344.3
+832,77d,Pasayten/Sawtooth Highlands,6.2.5,3028.2
+833,77e,Okanogan Pine/Fir Hills,6.2.5,3031.8
+834,77f,Chelan Tephra Hills,6.2.5,1127.0
+835,77g,Wenatchee/Chelan Highlands,6.2.5,1920.7
+836,77h,Chiwaukum Hills and Lowlands,6.2.5,2058.5
+837,77i,High Olympics,6.2.5,1544.1
+838,78a,Rogue/Illinois/Scott Valleys,6.2.11,1012.7
+839,78b,Oak Savanna Foothills,6.2.11,2120.9
+840,78c,Umpqua Interior Foothills,6.2.11,2385.0
+841,78d,Serpentine Siskiyous,6.2.11,2578.8
+842,78e,Inland Siskiyous,6.2.11,6474.4
+843,78f,Coastal Siskiyous,6.2.11,2211.0
+844,78g,Klamath River Ridges,6.2.11,1415.4
+845,78h,Border High-Siskiyous,6.2.11,1014.9
+846,78i,Western Klamath Low Elevation Forests,6.2.11,4428.4
+847,78j,Western Klamath Montane Forests,6.2.11,575.6
+848,78k,Eastern Klamath Low Elevation Forests,6.2.11,6739.6
+849,78l,Eastern Klamath Montane Forests,6.2.11,1165.4
+850,78m,Marble/Salmon Mountains-Trinity Alps,6.2.11,2621.3
+851,78n,Scott Mountains,6.2.11,1419.2
+852,78o,Klamath Subalpine,6.2.11,522.0
+853,78p,Duzel Rock,6.2.11,711.5
+854,78q,Outer North Coast Ranges,6.2.11,7025.0
+855,78r,High North Coast Ranges,6.2.11,3937.5
+856,79a,Apachian Valleys and Low Hills,12.1.1,17515.0
+857,79b,Lower Madrean Woodlands,12.1.1,11622.7
+858,79c,Madrean Pine-Oak and Mixed Conifer Forests,12.1.1,1407.8
+859,79d,Willcox Playa,12.1.1,160.4
+860,79e,Madrean Basin Grasslands,12.1.1,8943.5
+861,7a,Northern Terraces,11.1.2,4860.6
+862,7b,North Valley Alluvium,11.1.2,1524.9
+863,7c,Butte Sink/Sutter and Colusa Basins,11.1.2,2896.6
+864,7d,Southern Hardpan Terraces,11.1.2,4144.2
+865,7e,Sacramento/Feather Riverine Alluvium,11.1.2,1675.4
+866,7f,Sutter Buttes,11.1.2,166.6
+867,7g,Yolo Alluvial Fans,11.1.2,1906.8
+868,7h,Yolo/American Basin,11.1.2,753.7
+869,7j,Delta,11.1.2,2120.4
+870,7k,Lodi Alluvium,11.1.2,441.5
+871,7l,Stockton Basin,11.1.2,402.5
+872,7m,San Joaquin Basin,11.1.2,1735.7
+873,7n,Manteca/Merced Alluvium,11.1.2,2612.4
+874,7o,Westside Alluvial Fans and Terraces,11.1.2,1661.7
+875,7p,Granitic Alluvial Fans and Terraces,11.1.2,6406.3
+876,7q,Panoche and Cantua Fans and Basins,11.1.2,3033.5
+877,7r,Tulare Basin/Fresno Slough,11.1.2,2161.7
+878,7s,Kern Terraces,11.1.2,1573.0
+879,7t,South Valley Alluvium,11.1.2,4061.8
+880,7u,Antelope Plain,11.1.2,1257.0
+881,7v,Southern Clayey Basins,11.1.2,1094.3
+882,80a,Dissected High Lava Plateau,10.1.3,34437.6
+883,80b,Semiarid Hills and Low Mountains,10.1.3,13099.1
+884,80c,High Elevation Forests and Shrublands,10.1.3,2622.3
+885,80d,Pluvial Lake Basins,10.1.3,7987.9
+886,80e,High Desert Wetlands,10.1.3,4695.3
+887,80f,Owyhee Uplands and Canyons,10.1.3,11096.8
+888,80g,High Lava Plains,10.1.3,43634.0
+889,80h,Saltbush-Dominated Valleys,10.1.3,1268.0
+890,80i,Sagebrush Steppe Valleys,10.1.3,4848.2
+891,80j,Semiarid Uplands,10.1.3,12609.4
+892,80k,Partly Forested Mountains,10.1.3,636.5
+893,80l,Salt Shrub Valleys,10.1.3,2798.7
+894,80m,Barren Playas,10.1.3,464.3
+895,81a,Western Sonoran Mountains,10.2.2,1340.8
+896,81b,Western Sonoran Mountain Woodland and Shrubland,10.2.2,1427.5
+897,81c,Western Sonoran Basins,10.2.2,2886.3
+898,81d,Sand Hills/Sand Dunes,10.2.2,1804.6
+899,81e,Upper Coachella Valley and Hills,10.2.2,1375.6
+900,81f,Imperial/Lower Coachella Valleys,10.2.2,4514.1
+901,81g,Lower Colorado/Lower Gila River Valleys,10.2.2,3317.2
+902,81h,Sonoran Playas,10.2.2,139.6
+903,81i,Central Sonoran/Colorado Desert Mountains,10.2.2,11236.0
+904,81j,Central Sonoran/Colorado Desert Basins,10.2.2,33166.2
+905,81k,Arizona Upland/Eastern Sonoran Mountains,10.2.2,23866.1
+906,81l,Arizona Upland/Eastern Sonoran Basins,10.2.2,23794.9
+907,81m,Sonoran Lava Fields,10.2.2,781.7
+908,81n,Gila/Salt Intermediate Basins,10.2.2,6752.7
+909,81o,Middle Gila/Salt River Floodplains,10.2.2,1967.1
+910,82a,Aroostook Lowlands,8.1.8,2230.1
+911,82b,Aroostook Hills,8.1.8,7685.6
+912,82c,Eastern Maine-Southern New Brunswick Plains,8.1.8,11362.4
+913,82d,Central Foothills,8.1.8,3479.1
+914,82e,Central Maine Embayment,8.1.8,10306.7
+915,82f,Midcoast,8.1.8,3006.9
+916,82g,Downeast Coast,8.1.8,4898.7
+917,82h,Penobscot Lowlands,8.1.8,2281.1
+918,83a,Erie/Ontario Lake Plain,8.1.1,5812.7
+919,83b,Champlain Lowlands,8.1.1,5705.2
+920,83c,Ontario Lowlands,8.1.1,15265.3
+921,83d,St. Lawrence Lowlands,8.1.1,4121.5
+922,83e,Upper St. Lawrence Valley,8.1.1,3535.0
+923,83f,Mohawk Valley,8.1.1,5862.2
+924,84a,Cape Cod/Long Island,8.5.4,3727.2
+925,84b,Pine Barrens,8.5.4,5492.7
+926,84c,Barrier Islands/Coastal Marshes,8.5.4,1457.8
+927,84d,Inner Coastal Plain,8.5.4,3630.0
+928,85a,Santa Barbara Coastal Plain and Terraces,11.1.1,389.3
+929,85b,Oxnard Plain and Valleys,11.1.1,847.1
+930,85c,Venturan-Angeleno Coastal Hills,11.1.1,3202.3
+931,85d,Los Angeles Plain,11.1.1,3461.8
+932,85e,Diegan Coastal Terraces,11.1.1,1173.5
+933,85f,Diegan Coastal Hills and Valleys,11.1.1,2303.7
+934,85g,Diegan Western Granitic Foothills,11.1.1,2562.9
+935,85h,Morena/Boundary Mountain Chaparral,11.1.1,527.3
+936,85i,Northern Channel Islands,11.1.1,508.0
+937,85j,Southern Channel Islands,11.1.1,403.0
+938,85k,Inland Valleys,11.1.1,2812.7
+939,85l,Inland Hills,11.1.1,1686.6
+940,85m,Santa Ana Mountains,11.1.1,1077.5
+941,8a,Western Transverse Range Lower Montane Shrub and Woodland,11.1.3,3579.6
+942,8b,Western Transverse Range Montane Forest,11.1.3,238.4
+943,8c,Arid Montane Slopes,11.1.3,1463.4
+944,8d,Southern California Subalpine/Alpine,11.1.3,125.9
+945,8e,Southern California Lower Montane Shrub and Woodland,11.1.3,6542.1
+946,8f,Southern California Montane Conifer Forest,11.1.3,2481.0
+947,8g,Northern Transverse Range,11.1.3,1407.3
+948,9a,Yakima Plateau and Slopes,6.2.8,4643.2
+949,9b,Grand Fir Mixed Forest,6.2.8,2521.9
+950,9c,Oak/Conifer Foothills,6.2.8,2652.5
+951,9d,Ponderosa Pine/Bitterbrush Woodland,6.2.8,2789.8
+952,9e,Pumice Plateau,6.2.8,10970.5
+953,9f,Pumice Plateau Basins,6.2.8,1659.2
+954,9g,Klamath/Goose Lake Basins,6.2.8,4082.8
+955,9h,Fremont Pine/Fir Forest,6.2.8,4656.4
+956,9i,Southern Cascades Slope,6.2.8,1315.3
+957,9j,Klamath Juniper Woodland/Devils Garden,6.2.8,4780.2
+958,9k,Shasta Valley,6.2.8,922.7
+959,9l,Pit River Valleys,6.2.8,1657.7
+960,9m,Warner Mountains,6.2.8,1516.6
+961,9n,High Elevation Warner Mountains,6.2.8,166.1
+962,9o,Likely Tableland,6.2.8,272.5
+963,9p,Modoc/Lassen Juniper-Shrub Hills and Mountains,6.2.8,3169.3
+964,9q,Adin/Horsehead Mountains Forest and Woodland,6.2.8,1284.5
+965,9r,Adin/Dixie Low Hills,6.2.8,845.9
+966,9s,Modoc Lava Flows and Buttes,6.2.8,2663.4
+967,9t,Old Cascades,6.2.8,686.5
