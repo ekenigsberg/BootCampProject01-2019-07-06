@@ -1,0 +1,50 @@
+Regional patterns of anthropogenic influences on streams and rivers in the conterminous United States, from the early 1970s to 2012
+-- https://www.tandfonline.com/doi/figure/10.1080/1747423X.2019.1590473
+-- Underlying data at https://doi.org/10.5066/F7XW4J1J
+-- Land Use (data set 8) shows both NLCDs (National Land Cover Database) and NWALTS (NAWQA Wall-to-Wall Anthropogenic Land Use Trends). The NLCD data goes back to 2001. The NWALT data goes back to 1974.
+-- Both the NWALT and NLCD data sets are geographically broken down by 
+	• county (3,109 in the US),
+	• ECO4 (967 in the US), and
+	• HUC10 (Hydrologic Unit Code 10s), of which there are 15,458 in the US.
+-- Key results presented here include: 
+	• increases in urbanization and ‘exurbanization’ across every time period, particularly in the South, Southwest, and Mid-Atlantic, but higher density urbanization occurring in portions of the West and particularly California; 
+	• increases in crop production and nutrients in much of the Midwest; 
+	• increases in livestock concentration, particularly of hogs and pigs; 
+	• increases in irrigation, dams, and reservoirs in the Lower Mississippi and Lower Missouri watersheds, but a decrease broadly in the pace of new dam construction; 
+	• increases in CRP land in several regions between 1992 and 2012, notably the Lower Mississippi, but decreases in other areas, such as the Upper Missouri; 
+	• a widespread increase in the pesticide glyphosate, with a 40-fold increase in some regions between 1992 and 2012, but generally broadly occurring decreases of alachlor, carbaryl, chlorpyrifos, diazinon, and malathion use in this same period.; 
+	• and a widespread decrease in atmospheric deposition of sulfate.
+
+National Trends in Drinking Water Quality Violations
+	https://www.pnas.org/content/115/9/2078#fn-group-1
+	data from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IFV6SQ
+
+Nutrient and pesticide data collected from the USGS National Water Quality Network and previous networks, 1963-2017
+	https://doi.org/10.5066/P9TMSQFE
+
+Water Quality Data Download
+	https://www.waterqualitydata.us/portal/#mimeType=csv (info about sites)
+	https://www.waterqualitydata.us/portal/#startDateLo=01-01-1982&startDateHi=12-31-2012&mimeType=csv 
+	https://www.waterqualitydata.us/portal/#startDateLo=01-01-1982&startDateHi=12-31-2012&mimeType=csv&dataProfile=narrowResult
+
+Water-quality trends in the nation’s rivers and streams, 1972–2012—Data preparation, statistical methods, and trend results
+	https://pubs.er.usgs.gov/publication/sir20175006
+	Underlying data at https://www.sciencebase.gov/catalog/item/57c44124e4b0f2f0cebc8a2a
+		input: https://www.sciencebase.gov/catalog/item/582c7406e4b04d580bd377e2
+		output: https://www.sciencebase.gov/catalog/item/582c7affe4b04d580bd37805
+	Visualized at https://nawqatrends.wim.usgs.gov/swtrends/
+
+WaterWatch: realtime maps of Temperature, Conductance, pH, Turbidity, Nitrates, Discharge, Chlorophyll, 
+	https://waterwatch.usgs.gov/wqwatch/
+	
+Listing of USGS APIs:
+	https://www.usgs.gov/products/data-and-tools/apis
+	Don't know how we'd get a useful subset of these:
+		https://waterdata.usgs.gov/nwis/uv/?referred_module=qw
+
+https://streamstats.usgs.gov/docs/streamstatsservices/#/
+
+Path Finder Science
+	Volunteer-driven effort.Don't know how good the data would be.
+	Requires teacher registration
+	http://www.pathfinderscience.net/stream/cproto4.cfm
