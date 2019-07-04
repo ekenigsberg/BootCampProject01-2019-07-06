@@ -48,3 +48,26 @@ Path Finder Science
 	Volunteer-driven effort.Don't know how good the data would be.
 	Requires teacher registration
 	http://www.pathfinderscience.net/stream/cproto4.cfm
+
+GOOGLE MAPS MARKER_LAYER (from 06-Python-APIs\3\Activities\09-Stu_Census\Solved\Census_States.ipynb):
+# Create a map using state centroid coordinates to set markers
+marker_locations = census_data[['Latitude', 'Longitude']]
+# Create a marker_layer using the poverty list to fill the info box
+fig = gmaps.figure()
+markers = gmaps.marker_layer(marker_locations,
+    info_box_content=[f"Poverty Rate: {rate}" for rate in poverty_rate])
+fig.add_layer(markers)
+fig
+
+GOOGLE MAPS HEATMAP_LAYER (from 06-Python-APIs\3\Activities\07-Stu_Airport_Map\Unsolved\airport_heatmap.ipynb):
+# Plot Heatmap
+fig = gmaps.figure(map_type='HYBRID')
+heatmap_layer = gmaps.heatmap_layer(locations)
+fig.add_layer(heatmap_layer)
+fig
+
+COUNTY MAPPING
+Color counties with https://plot.ly/python/county-choropleth/
+needed to install packages:
+	conda install plotly
+	conda install geopandas
