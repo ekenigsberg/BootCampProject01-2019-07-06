@@ -1,4 +1,8 @@
 # UT Data Analytics BootCamp 2019 May-Nov Cohort
+[Google Slides Presentation](http://bit.ly/waterpreso)
+for 
+[Data Analytics Boot Camp Project #1](https://github.com/the-Coding-Boot-Camp-at-UT/UTAMCB201904DATA3/tree/master/07-Project-1/1/ProjectGuidelines)
+
 __Project 01 (due 2019-07-06)__
 __M-W Team A:__
 * Joshua Benenoch
