@@ -1,7 +1,9 @@
 # UT Data Analytics BootCamp 2019 May-Nov Cohort
 [Google Slides Presentation](http://bit.ly/waterpreso)<br/>
 for<br/>
-[Data Analytics Boot Camp Project #1](https://github.com/the-Coding-Boot-Camp-at-UT/UTAMCB201904DATA3/tree/master/07-Project-1/1/ProjectGuidelines)
+[Data Analytics Boot Camp Project #1](https://github.com/the-Coding-Boot-Camp-at-UT/UTAMCB201904DATA3/tree/master/07-Project-1/1/ProjectGuidelines)<br/>
+<a href="https://bit.ly/waterpreso">![What Drives Water Quality?](https://github.com/ekenigsberg/BootCampProject01-2019-07-06/blob/master/Slide01.png)</a>
+
 
 __Project 01 (due 2019-07-06)__
 __M-W Team A:__
