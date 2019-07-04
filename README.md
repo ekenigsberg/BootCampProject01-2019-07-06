@@ -2,7 +2,7 @@
 [Google Slides Presentation](http://bit.ly/waterpreso)<br/>
 for<br/>
 [Data Analytics Boot Camp Project #1](https://github.com/the-Coding-Boot-Camp-at-UT/UTAMCB201904DATA3/tree/master/07-Project-1/1/ProjectGuidelines)<br/>
-<a href="https://bit.ly/waterpreso">![What Drives Water Quality?](https://github.com/ekenigsberg/BootCampProject01-2019-07-06/blob/master/Slide01.png)</a>
+<a href="https://docs.google.com/presentation/d/1-pz8EqzngSoPVqRwsg3dwYYSIxyxjSldFpJI3Rs3ZPQ/present">![What Drives Water Quality?](https://github.com/ekenigsberg/BootCampProject01-2019-07-06/blob/master/Slide01.png)</a>
 
 
 __Project 01 (due 2019-07-06)__
